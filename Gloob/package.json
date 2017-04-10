@@ -1,0 +1,22 @@
+{
+  "name": "gloob",
+  "version": "1.0.0",
+  "description": "Test for Gloob",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joaopedroffranco/servicesTest.git"
+  },
+  "author": "João Pedro Fabiano Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaopedroffranco/servicesTest/issues"
+  },
+  "homepage": "https://github.com/joaopedroffranco/servicesTest#readme",
+  "dependencies" : { 
+    "request" : "2.81.0"
+  }
+}
